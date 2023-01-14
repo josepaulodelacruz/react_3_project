@@ -5,10 +5,9 @@ import './index.css'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <div className="App">
-      <App />
-    </div>
+    <App />
   </React.StrictMode>,
 )
+
 
 //0042 = 1:15 timestamp
