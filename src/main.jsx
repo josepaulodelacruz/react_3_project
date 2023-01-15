@@ -11,3 +11,8 @@ ReactDOM.createRoot(document.getElementById('root')).render(
 
 
 //0043 = 0:30:59 timestamp
+
+//blender tutorial
+/*
+* 0036_creating a scene in blender 51:19 mins timestamp
+* */

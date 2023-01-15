@@ -44,7 +44,7 @@ export default function Scene () {
               distanceFactor={8}
               position={[1,1,1]}>
               That's the Sphere
-            </Html>
+            </HtmlHtml>
             <sphereGeometry/>
             <meshStandardMaterial color={'orange'}/>
           </mesh>
